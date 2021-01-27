@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="student.xsd">
+ <students id="a">
+  <reg.no>190031071</reg.no>
+  <name>likhithkankanala</name>
+  <email>kankanalalikhith@gmail.com</email>
+  <marks>95.0</marks>
+  <class>2nd Year</class>
+ </students>
+ <students id="b">
+  <reg.no>190030536</reg.no>
+  <name>Rahul</name>
+  <email>rahul@gmail.com</email>
+  <marks>93.0</marks>
+  <class>2nd Year</class>
+ </students>
+ <students id="c">
+  <reg.no>190031510</reg.no>
+  <name>Sharez</name>
+  <email>shh3687@gmail.com</email>
+  <marks>97.0</marks>
+  <class>3rd Year</class>
+ </students>
+ <students id="d">
+  <reg.no>190031067</reg.no>
+  <name>Arshad</name>
+  <email>mdarshad@gmail.com</email>
+  <marks>97.0</marks>
+  <class>3rd Year</class>
+ </students>
+ <students id="e">
+  <reg.no>190039018</reg.no>
+  <name>chaytanya</name>
+  <email>chaitu@gmail.com</email>
+  <marks>99.0</marks>
+  <class>4th Year</class>
+ </students>
+</Student>
